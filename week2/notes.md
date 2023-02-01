@@ -23,5 +23,5 @@ same type of vocabulary
 ## Differentiated Constructivism
 - The agency of artificats results partly from the material design structure of artificats and partly from social processes.
 - The separation between social and physical actants is one that is imperative to the analysis.
-
+- Has different weights for actants
 
